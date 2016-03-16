@@ -1,0 +1,309 @@
+#ITEM INTERACT
+#------------------------------------------------------
+#----☆ Single Effects ☆----
+#------------------------------------------------------
+#--Item1
+id1: 351:1
+id1-msg: §aSpeed
+#choose chat, popup, or tip
+id1-msg-type: tip
+#------Effect1
+id1-eff1: 1
+id1-eff1-dur: 300
+id1-eff1-amp: 4
+#------------------------------------------------------
+#--Item2
+id2: 351:2
+id2-msg: §aHaste
+#choose chat, popup, or tip
+id2-msg-type: tip
+#------Effect1
+id2-eff1: 3
+id2-eff1-dur: 300
+id2-eff1-amp: 4
+#------------------------------------------------------
+#--Item3
+id3: 351:5
+id3-msg: §aStrength
+#choose chat, popup, or tip
+id3-msg-type: tip
+#------Effect1
+id3-eff1: 5
+id3-eff1-dur: 300
+id3-eff1-amp: 0
+#------------------------------------------------------
+#--Item4
+id4: 351:6
+id4-msg: §aJump Boost
+#choose chat, popup, or tip
+id4-msg-type: tip
+#------Effect1
+id4-eff1: 8
+id4-eff1-dur: 300
+id4-eff1-amp: 7
+#------------------------------------------------------
+#--Item5
+id5: 351:7
+id5-msg: §aRegeneration
+#choose chat, popup, or tip
+id5-msg-type: tip
+#------Effect1
+id5-eff1: 10
+id5-eff1-dur: 300
+id5-eff1-amp: 0
+#------------------------------------------------------
+#--Item6
+id6: 351:8
+id6-msg: §aResistance
+#choose chat, popup, or tip
+id6-msg-type: tip
+#------Effect1
+id6-eff1: 11
+id6-eff1-dur: 300
+id6-eff1-amp: 0
+#------------------------------------------------------
+#--Item7
+id7: 351:9
+id7-msg: §aFire Resistance
+#choose chat, popup, or tip
+id7-msg-type: tip
+#------Effect1
+id7-eff1: 12
+id7-eff1-dur: 300
+id7-eff1-amp: 0
+#------------------------------------------------------
+#--Item8
+id8: 351:10
+id8-msg: §aWater Breathing
+#choose chat, popup, or tip
+id8-msg-type: tip
+#------Effect1
+id8-eff1: 13
+id8-eff1-dur: 300
+id8-eff1-amp: 4
+#------------------------------------------------------
+#--Item9
+id9: 351:11
+id9-msg: §aInvincibility
+#choose chat, popup, or tip
+id9-msg-type: tip
+#------Effect1
+id9-eff1: 14
+id9-eff1-dur: 30
+id9-eff1-amp: 0
+#------------------------------------------------------
+#--Item10
+id10: 351:12
+id10-msg: §aNight Vision
+#choose chat, popup, or tip
+id10-msg-type: tip
+#------Effect1
+id10-eff1: 16
+id10-eff1-dur: 300
+id10-eff1-amp: 0
+#------------------------------------------------------
+#--Item11
+id11: 351:13
+id11-msg: §aHealth Boost
+#choose chat, popup, or tip
+id11-msg-type: tip
+#------Effect1
+id11-eff1: 21
+id11-eff1-dur: 300
+id11-eff1-amp: 4
+#------------------------------------------------------
+#--Item12
+id12: 351:14
+id12-msg: §aSaturation
+#choose chat, popup, or tip
+id12-msg-type: tip
+#------Effect1
+id12-eff1: 23
+id12-eff1-dur: 300
+id12-eff1-amp: 4
+#------------------------------------------------------
+#----☆ Triple Effects ☆----
+#------------------------------------------------------
+#--Item13
+id13: 381
+id13-msg: §bAssassin 
+#choose chat, popup, or tip
+id13-msg-type: tip
+#------Effect1
+id13-eff1: 1
+id13-eff1-dur: 600
+id13-eff1-amp: 4
+#------Effect2
+id13-eff2: 8
+id13-eff2-dur: 600
+id13-eff2-amp: 9
+#------Effect3
+id13-eff3: 14
+id13-eff3-dur: 300
+id13-eff3-amp: 0
+#------------------------------------------------------
+#--Item14
+id14: 377
+id14-msg: §bPvP Power Up
+#choose chat, popup, or tip
+id14-msg-type: tip
+#------Effect1
+id14-eff1: 5
+id14-eff1-dur: 600
+id14-eff1-amp: 1
+#------Effect2
+id14-eff2: 10
+id14-eff2-dur: 600
+id14-eff2-amp: 1
+#------Effect3
+id14-eff3: 11
+id14-eff3-dur: 600
+id14-eff3-amp: 1
+#------------------------------------------------------
+#--Item15
+id15: 376
+id15-msg: §bPro Miner
+#choose chat, popup, or tip
+id15-msg-type: tip
+#------Effect1
+id15-eff1: 3
+id15-eff1-dur: 600
+id15-eff1-amp: 4
+#------Effect2
+id15-eff2: 16
+id15-eff2-dur: 600
+id15-eff2-amp: 0
+#------Effect3
+id15-eff3: 23
+id15-eff3-dur: 600
+id15-eff3-amp: 4
+#------------------------------------------------------
+#--Item16
+id16: 378
+id16-msg: §bExplorer 
+#choose chat, popup, or tip
+id16-msg-type: tip
+#------Effect1
+id16-eff1: 13
+id16-eff1-dur: 600
+id16-eff1-amp: 0
+#------Effect2
+id16-eff2: 14
+id16-eff2-dur: 600
+id16-eff2-amp: 0
+#------Effect3
+id16-eff3: 16
+id16-eff3-dur: 600
+id16-eff3-amp: 0
+#------------------------------------------------------
+#--Item17
+id17: 385
+id17-msg: §bTank
+#choose chat, popup, or tip
+id17-msg-type: tip
+#------Effect1
+id17-eff1: 11
+id17-eff1-dur: 600
+id17-eff1-amp: 1
+#------Effect2
+id17-eff2: 12
+id17-eff2-dur: 600
+id17-eff2-amp: 0
+#------Effect3
+id17-eff3: 21
+id17-eff3-dur: 600
+id17-eff3-amp: 9
+#------------------------------------------------------
+
+#BLOCK INTERACT
+#------------------------------------------------------
+#--Block1
+block-id1: 420
+block-id1-msg:
+#choose chat, popup, or tip
+block-id1-msg-type: popup
+#------Effect1
+block-id1-eff1: 1
+block-id1-eff1-dur: 20
+block-id1-eff1-amp: 10
+#------Effect2
+block-id1-eff2: 2
+block-id1-eff2-dur: 25
+block-id1-eff2-amp: 15
+#------Effect3
+block-id1-eff3: 3
+block-id1-eff3-dur: 25
+block-id1-eff3-amp: 15
+#------------------------------------------------------
+#--Block2
+block-id2: 421
+block-id2-msg:
+#choose chat, popup, or tip
+block-id2-msg-type: chat
+#------Effect1
+block-id2-eff1: 1
+block-id2-eff1-dur: 20
+block-id2-eff1-amp: 10
+#------Effect2
+block-id2-eff2: 2
+block-id2-eff2-dur: 25
+block-id2-eff2-amp: 15
+#------Effect3
+block-id2-eff3: 3
+block-id2-eff3-dur: 25
+block-id2-eff3-amp: 15
+#------------------------------------------------------
+#--Block3
+block-id3: 422
+block-id3-msg:
+#choose chat, popup, or tip
+block-id3-msg-type: tip
+#------Effect1
+block-id3-eff1: 1
+block-id3-eff1-dur: 20
+block-id3-eff1-amp: 10
+#------Effect2
+block-id3-eff2: 2
+block-id3-eff2-dur: 25
+block-id3-eff2-amp: 15
+#------Effect3
+block-id3-eff3: 3
+block-id3-eff3-dur: 25
+block-id3-eff3-amp: 15
+#------------------------------------------------------
+#--Block4
+block-id4: 424
+block-id4-msg:
+#choose chat, popup, or tip
+block-id4-msg-type: tip
+#------Effect1
+block-id4-eff1: 1
+block-id4-eff1-dur: 20
+block-id4-eff1-amp: 10
+#------Effect2
+block-id4-eff2: 2
+block-id4-eff2-dur: 25
+block-id4-eff2-amp: 15
+#------Effect3
+block-id4-eff3: 3
+block-id4-eff3-dur: 25
+block-id4-eff3-amp: 15
+#------------------------------------------------------
+#--Block5
+block-id5: 425
+block-id5-msg:
+#choose chat, popup, or tip
+block-id5-msg-type: popup
+#------Effect1
+block-id5-eff1: 1
+block-id5-eff1-dur: 20
+block-id5-eff1-amp: 10
+#------Effect2
+block-id5-eff2: 2
+block-id5-eff2-dur: 25
+block-id5-eff2-amp: 15
+#------Effect3
+block-id5-eff3: 3
+block-id5-eff3-dur: 25
+block-id5-eff3-amp: 15
+#------------------------------------------------------
