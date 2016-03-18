@@ -29,6 +29,7 @@ class Main extends P implements L{
                         if($this->getConfig()->exists($e->getItem()->getId() . ":" . $meta){
                           $effects = $this->getConfig()->get($e->getItem()->getId() . ":" . $meta);
                         }
+                        $p->addEffect($effects);
 			$item = Item::get($this->getConfig()->get("id1"), $meta, 1);
 			$p->getInventory()->removeItem($item);
 			if($this->getConfig()->get("id1-msg-type") == "chat"){
