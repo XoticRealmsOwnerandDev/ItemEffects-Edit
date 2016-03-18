@@ -27,7 +27,7 @@ class Main extends P implements L{
 			$p->addEffect($eff1);
 			$meta = $e->getItem()->getDamage();
                         if($this->getConfig()->exists($e->getItem()->getId() . ":" . $meta)){
-                          $effects = Effect::getEffect($this->getConfig()->get("id1-eff1"))->setDuration($this->getConfig()->get("id1-eff1-dur") * 20)->setAmplifier($this->getConfig()->get("id1-eff1-amp"));
+                          $effects = $this->getConfig()->get($id . ":" . $meta);
                         }
                         $p->addEffect($effects);
 			$item = Item::get($this->getConfig()->get("id1"), $meta, 1);
