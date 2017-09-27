@@ -1,7 +1,7 @@
 name: ItemEffects
 author: XFuryMCPE edited by Tolo
 description: "Receive effects upon item consumption!"
-api: 1.12.0
+api: 3.0.0
 version: 2.5.0
 main: xfury\ie\Main
 website: s.at-fac.net
